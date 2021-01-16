@@ -1,0 +1,9 @@
+(module circle (layer F.Cu) (tedit 5FE7A540)
+  (fp_text reference REF** (at 0 0.5) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value circle (at 0 -0.5) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 smd circle (at -0.25 -1.75) (size 3.81 3.81) (layers F.SilkS))
+)

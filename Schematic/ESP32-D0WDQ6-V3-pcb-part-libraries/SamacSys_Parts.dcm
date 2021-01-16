@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP ESP32-D0WDQ6-V3
+D IC RF TXRX+MCU BLUETOOTH WIFI
+K
+F https://componentsearchengine.com/Datasheets/1/ESP32-D0WDQ6-V3.pdf
+$ENDCMP
+#
+$CMP MBT3946DW1T1G
+D 
+K
+F http://www.onsemi.com/pub/Collateral/MBT3946DW1T1-D.PDF
+$ENDCMP
+#
+#End Doc Library
