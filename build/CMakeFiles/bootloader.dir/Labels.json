@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/matt/esp/projects/trackpad_card/Software/ESP32_Num_MNIST/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "/home/matt/esp/projects/trackpad_card/Software/ESP32_Num_MNIST/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "/home/matt/esp/projects/trackpad_card/Software/ESP32_Num_MNIST/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "/home/matt/esp/projects/trackpad_card/Software/ESP32_Num_MNIST/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "/home/matt/esp/projects/trackpad_card/Software/ESP32_Num_MNIST/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "/home/matt/esp/projects/trackpad_card/Software/ESP32_Num_MNIST/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "/home/matt/esp/projects/trackpad_card/Software/ESP32_Num_MNIST/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		},
+		{
+			"file" : "/home/matt/esp/projects/trackpad_card/Software/ESP32_Num_MNIST/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "/home/matt/esp/projects/trackpad_card/Software/ESP32_Num_MNIST/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "/home/matt/esp/projects/trackpad_card/Software/ESP32_Num_MNIST/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}
