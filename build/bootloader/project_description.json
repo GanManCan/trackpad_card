@@ -1,8 +1,8 @@
 {
     "project_name":       "bootloader",
     "project_path":       "/home/matt/esp/esp-idf/components/bootloader/subproject",
-    "build_dir":          "/home/matt/esp/projects/trackpad_card/Software/ESP32_Num_MNIST/build/bootloader",
-    "config_file":        "/home/matt/esp/projects/trackpad_card/Software/ESP32_Num_MNIST/sdkconfig",
+    "build_dir":          "/home/matt/esp/projects/trackpad_card/build/bootloader",
+    "config_file":        "/home/matt/esp/projects/trackpad_card/sdkconfig",
     "config_defaults":    "",
     "app_elf":            "bootloader.elf",
     "app_bin":            "bootloader.bin",

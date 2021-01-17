@@ -34,7 +34,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/matt/esp/projects/trackpad_card/Software/ESP32_Num_MNIST/build/esp-idf/newlib/port/cmake_install.cmake")
+  include("/home/matt/esp/projects/trackpad_card/build/esp-idf/newlib/port/cmake_install.cmake")
 
 endif()
 

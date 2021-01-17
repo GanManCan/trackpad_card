@@ -1,13 +1,13 @@
 # Target labels
  bootloader
 # Source files and their labels
-/home/matt/esp/projects/trackpad_card/Software/ESP32_Num_MNIST/build/CMakeFiles/bootloader
-/home/matt/esp/projects/trackpad_card/Software/ESP32_Num_MNIST/build/CMakeFiles/bootloader.rule
-/home/matt/esp/projects/trackpad_card/Software/ESP32_Num_MNIST/build/CMakeFiles/bootloader-complete.rule
-/home/matt/esp/projects/trackpad_card/Software/ESP32_Num_MNIST/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
-/home/matt/esp/projects/trackpad_card/Software/ESP32_Num_MNIST/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
-/home/matt/esp/projects/trackpad_card/Software/ESP32_Num_MNIST/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
-/home/matt/esp/projects/trackpad_card/Software/ESP32_Num_MNIST/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
-/home/matt/esp/projects/trackpad_card/Software/ESP32_Num_MNIST/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
-/home/matt/esp/projects/trackpad_card/Software/ESP32_Num_MNIST/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
-/home/matt/esp/projects/trackpad_card/Software/ESP32_Num_MNIST/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/matt/esp/projects/trackpad_card/build/CMakeFiles/bootloader
+/home/matt/esp/projects/trackpad_card/build/CMakeFiles/bootloader.rule
+/home/matt/esp/projects/trackpad_card/build/CMakeFiles/bootloader-complete.rule
+/home/matt/esp/projects/trackpad_card/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/matt/esp/projects/trackpad_card/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/matt/esp/projects/trackpad_card/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/matt/esp/projects/trackpad_card/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/home/matt/esp/projects/trackpad_card/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/matt/esp/projects/trackpad_card/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/matt/esp/projects/trackpad_card/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule

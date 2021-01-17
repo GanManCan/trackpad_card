@@ -1,4 +1,4 @@
-# Install script for directory: /home/matt/esp/projects/trackpad_card/Software/ESP32_Num_MNIST/main
+# Install script for directory: /home/matt/esp/projects/trackpad_card/main
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

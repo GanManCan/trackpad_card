@@ -1,4 +1,4 @@
-/* * Data converted from /home/matt/esp/projects/trackpad_card/Software/ESP32_Num_MNIST/build/esp-idf/mbedtls/x509_crt_bundle
+/* * Data converted from /home/matt/esp/projects/trackpad_card/build/esp-idf/mbedtls/x509_crt_bundle
  */
 .data
 .section .rodata.embedded

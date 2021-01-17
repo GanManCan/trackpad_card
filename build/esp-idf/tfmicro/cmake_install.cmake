@@ -1,4 +1,4 @@
-# Install script for directory: /home/matt/esp/projects/trackpad_card/Software/ESP32_Num_MNIST/components/tfmicro
+# Install script for directory: /home/matt/esp/projects/trackpad_card/components/tfmicro
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

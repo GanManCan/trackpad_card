@@ -1,4 +1,4 @@
-# Install script for directory: /home/matt/esp/projects/trackpad_card/Software/ESP32_Num_MNIST
+# Install script for directory: /home/matt/esp/projects/trackpad_card
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,7 +34,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/matt/esp/projects/trackpad_card/Software/ESP32_Num_MNIST/build/esp-idf/cmake_install.cmake")
+  include("/home/matt/esp/projects/trackpad_card/build/esp-idf/cmake_install.cmake")
 
 endif()
 
@@ -46,5 +46,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/matt/esp/projects/trackpad_card/Software/ESP32_Num_MNIST/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/matt/esp/projects/trackpad_card/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
