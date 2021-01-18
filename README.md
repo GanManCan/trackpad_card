@@ -1,4 +1,4 @@
-# MNIST Business Card
+# MNIST Business Card (Test)
 
 This software is based on the [projet](https://github.com/mr-goldhands/ESP32_Fashion_MNIST), which you can read about i the following medium [article](https://medium.com/@dmytro.korablyov/first-steps-with-esp32-and-tensorflow-lite-for-microcontrollers-c2d8e238accf)
 
